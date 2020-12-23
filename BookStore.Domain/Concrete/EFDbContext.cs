@@ -1,5 +1,5 @@
-﻿using BookStore.Domain.Entities;
-using System.Data.Entity;
+﻿using System.Data.Entity;
+using BookStore.Domain.Entities;
 
 namespace BookStore.Domain.Concrete
 {

@@ -9,7 +9,7 @@ namespace BookStore.Domain.Concrete
     public class EmailSettings
     {
         public string MailToAddress = "Orders@example.com";
-        public string MailFromAddress = "BookStore@example.com";
+        public string MailFromAddress = "DLibrary@example.com";
         public bool UseSsl = true;
         public string Username = "sultansuleev06@gmail.com";
         public string Password = "lorem1506";

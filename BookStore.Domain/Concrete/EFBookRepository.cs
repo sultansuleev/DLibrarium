@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
-using BookStore.Domain.Entities;
 using BookStore.Domain.Abstract;
+using BookStore.Domain.Entities;
 
 namespace BookStore.Domain.Concrete
 {

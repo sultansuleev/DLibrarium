@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Web.Mvc;
 using BookStore.Domain.Abstract;
-using BookStore.Domain.Entities;
 using BookStore.Domain.Concrete;
-using Moq;
 using Ninject;
 
 namespace BookStore.WebUI.Infrastructure

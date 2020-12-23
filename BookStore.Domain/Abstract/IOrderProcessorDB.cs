@@ -1,5 +1,5 @@
-﻿using BookStore.Domain.Entities;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using BookStore.Domain.Entities;
 
 namespace BookStore.Domain.Abstract
 {

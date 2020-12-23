@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
 using BookStore.WebUI.Filters;
 
-namespace BookStore.WebUI.App_Start
+namespace BookStore.WebUI
 {
     public class FilterConfig
     {

@@ -1,13 +1,15 @@
-[assembly: WebActivator.PreApplicationStartMethod(typeof(BookStore.WebUI.App_Start.NinjectWebCommon), "Start")]
-[assembly: WebActivator.ApplicationShutdownMethodAttribute(typeof(BookStore.WebUI.App_Start.NinjectWebCommon), "Stop")]
+using System;
+using System.Web;
+using BookStore.WebUI;
+using Microsoft.Web.Infrastructure.DynamicModuleHelper;
+using Ninject;
+using Ninject.Web.Common;
 
-namespace BookStore.WebUI.App_Start
+[assembly: WebActivator.PreApplicationStartMethod(typeof(NinjectWebCommon), "Start")]
+[assembly: WebActivator.ApplicationShutdownMethodAttribute(typeof(NinjectWebCommon), "Stop")]
+
+namespace BookStore.WebUI
 {
-    using System;
-    using System.Web;
-    using Microsoft.Web.Infrastructure.DynamicModuleHelper;
-    using Ninject;
-    using Ninject.Web.Common;
     public static class NinjectWebCommon
     {
         private static readonly Bootstrapper bootstrapper = new Bootstrapper();

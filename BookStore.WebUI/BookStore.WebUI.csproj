@@ -347,12 +347,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BookStore.Domain\BookStore.Domain.csproj">
-      <Project>{062cd333-c55f-4587-bf85-da47c4daed11}</Project>
-      <Name>BookStore.Domain</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Infrastructure\Abstract\" />
     <Folder Include="Infrastructure\Concrete\" />
   </ItemGroup>
@@ -361,6 +355,12 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BookStore.Domain\BookStore.Domain.csproj">
+      <Project>{062cd333-c55f-4587-bf85-da47c4daed11}</Project>
+      <Name>BookStore.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

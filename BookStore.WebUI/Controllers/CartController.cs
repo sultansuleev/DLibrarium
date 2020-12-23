@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using System.Web.Mvc;
-using BookStore.Domain.Entities;
 using BookStore.Domain.Abstract;
+using BookStore.Domain.Entities;
 using BookStore.WebUI.Models;
 
 namespace BookStore.WebUI.Controllers

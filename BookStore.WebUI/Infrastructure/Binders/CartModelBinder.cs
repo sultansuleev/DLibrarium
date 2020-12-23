@@ -1,5 +1,5 @@
-﻿using BookStore.Domain.Entities;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
+using BookStore.Domain.Entities;
 
 namespace BookStore.WebUI.Infrastructure.Binders
 {

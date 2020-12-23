@@ -3,7 +3,6 @@ using System.Web.Optimization;
 using System.Web.Routing;
 using System.Data.Entity;
 using BookStore.Domain.Concrete;
-using BookStore.WebUI.App_Start;
 using BookStore.Domain.Entities;
 using BookStore.WebUI.Infrastructure.Binders;
 
