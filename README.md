@@ -2,7 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.4.2.pre--presentate-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/veni666vici" target="_blank">
-    <img alt="Twitter: veni666vici" src="https://img.shields.io/twitter/follow/veni666vici.svg?style=social" />
+    <img alt="Twitter: ave_m1tra" src="https://img.shields.io/twitter/follow/ave_m1tra.svg?style=social" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ My proposal is to create a portal library strictly tied to our platform, on whic
 👤 **Sultan Suleev /AVE.MITRA**
 
 * Website: https://github.com/sultansuleev
-* Twitter: [@veni666vici](https://twitter.com/veni666vici)
+* Twitter: [@veni666vici](https://twitter.com/ave_m1tra)
 * Github: [@sultansuleev](https://github.com/sultansuleev)
 
 ## Show your support
