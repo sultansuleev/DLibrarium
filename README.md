@@ -52,7 +52,7 @@ My proposal is to create a portal library strictly tied to our platform, on whic
 👤 **Sultan Suleev /AVE.MITRA**
 
 * Website: https://github.com/sultansuleev
-* Twitter: [@veni666vici](https://twitter.com/ave_m1tra)
+* Twitter: [@ave_m1tra](https://twitter.com/ave_m1tra)
 * Github: [@sultansuleev](https://github.com/sultansuleev)
 
 ## Show your support
