@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to DLibrarium 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.4.2.pre--presentate-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/veni666vici" target="_blank">
+  <a href="https://twitter.com/ave_m1tra" target="_blank">
     <img alt="Twitter: ave_m1tra" src="https://img.shields.io/twitter/follow/ave_m1tra.svg?style=social" />
   </a>
 </p>
