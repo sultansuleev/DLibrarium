@@ -55,9 +55,5 @@ My proposal is to create a portal library strictly tied to our platform, on whic
 * Twitter: [@ave_m1tra](https://twitter.com/ave_m1tra)
 * Github: [@sultansuleev](https://github.com/sultansuleev)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
